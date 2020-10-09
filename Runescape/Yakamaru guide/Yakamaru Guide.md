@@ -8,7 +8,7 @@ This was a guide written by me to help ease members of [Helpful clan] into raids
 
 [Picture CR: Johnna]
 
-![yakapool](.\assets\yakapool.png)
+![yakapool](./assets/yakapool.png)
 
 
 
@@ -23,7 +23,7 @@ pray ranged if you are not in melee distance (`MD`), pray magic if you are in MD
 
 **1) Enrage Mechanic**
 
-![debuff](.\assets\debuff.jpg) < watch out for this in your debuff bar (enrage stacks)
+![debuff](./assets/debuff.jpg) < watch out for this in your debuff bar (enrage stacks)
 
 ```
 If you get a debuff icon and the text "Yakamaru's water begins to drench you," (x1.2 damage taken.) "Yakamaru's waters begin to soak through you," (x2 dmg taken) and "Yakamaru's waters conducts his full power." (x3 dmg taken), it is the base tank fault, so just :
@@ -67,7 +67,7 @@ Some time into Tendril pool, yaka will choke you with tendrils. Simply up your d
 
 **6) Blue Mechanic**
 
-![yakablued](.\assets\yakablued.png)
+![yakablued](./assets/yakablued.png)
 
 ```
 Some time into the raid, your character may turn blue (or passed down from someone else) to avoid taking massive dmg, stand next to anyone (or right click and follow them) to pass it on. If tanks or CPR get blued/sanded, it is your duty as dps to free them first. This could kill you, try not to ignore if possible
