@@ -34,7 +34,6 @@ tldr; if yaka angry, yaka hurty, so use freedom
 
 ```
 
-
 **2) Sand Mechanic**
 
 ```
@@ -107,7 +106,19 @@ Responsible for :
 
 `DBL` Poison double
 
+```
+On Sand pool (Pool before stun pool) DBL will stand on the same spot together with PT and take the poison. He will tank the poison all the way till end of stun pool where he is in melee range of yaka. Stun pool is very fast to kill that is why there is a DBL role. Pray mage when in MD of yaka.
+```
+
+
+
 `MS` Main Stunner
+
+```
+On stun pool, dps on yaka will slowly slow down. MS Stuns yakamaru ONCE ONLY when on stun pool. This resets all damage negation on yaka, allowing dps to gain back their damage.
+```
+
+
 
 `CPR` Reviver (cardiopulminary resuscitator)
 
@@ -126,7 +137,19 @@ Roles in Mirage Phase (Last phase of Yaka)
 
 `ST5` Stun 5
 
+```
+Takes 5 planks from where CPR is and whacks stun pool. Spam click on stun pool afterwwards to seal stun pool. If Onslaught is unlocked, people usually do this rotation : 
+Pray range(make sure prayers and hp high)> devotion > adren pot > onslaught
+```
+
 `ST0` Stun 0
+
+```
+Easy version of ST5. Goes to stun pool and whacks it.
+Easy mode rotation :
+Pray range(make sure prayers and hp high)> devotion > adren pot > onslaught
+(only works 100% if at least 1 st5 and 2 st0)
+```
 
 `JW` Jelly Wrangler
 
